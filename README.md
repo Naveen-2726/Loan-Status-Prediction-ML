@@ -1,5 +1,5 @@
 📌 Loan Status Prediction using Support Vector Machine (SVM)
-🚀 Overview
+
 
 This project builds a Machine Learning model to predict whether a loan application will be Approved or Not Approved based on applicant demographic and financial details.
 
