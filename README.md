@@ -23,21 +23,21 @@ The objective is to help financial institutions automate loan approval decisions
 
 📊 Project Workflow
 
-1)Data Collection & Loading
+1) Data Collection & Loading
 
-2)Data Cleaning and Missing Value Handling
+2) Data Cleaning and Missing Value Handling
 
-3)Categorical Feature Encoding
+3) Categorical Feature Encoding
 
-4)Exploratory Data Analysis (EDA)
+4) Exploratory Data Analysis (EDA)
 
-5)Train-Test Split
+5) Train-Test Split
 
-6)Model Training using SVM
+6) Model Training using SVM
 
-7)Model Evaluation
+7) Model Evaluation
 
-8)Predictive System Implementation
+8) Predictive System Implementation
 
 🤖 Model Details
 
