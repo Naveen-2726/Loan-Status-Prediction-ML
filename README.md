@@ -7,37 +7,37 @@ The objective is to help financial institutions automate loan approval decisions
 
 🛠 Technologies Used
 
-Python
+* Python
 
-NumPy
+* NumPy
 
-Pandas
+* Pandas
 
-Seaborn
+* Seaborn
 
-Matplotlib
+* Matplotlib
 
-Scikit-learn
+* Scikit-learn
 
-Support Vector Machine (SVM)
+* Support Vector Machine (SVM)
 
 📊 Project Workflow
 
-Data Collection & Loading
+1)Data Collection & Loading
 
-Data Cleaning and Missing Value Handling
+2)Data Cleaning and Missing Value Handling
 
-Categorical Feature Encoding
+3)Categorical Feature Encoding
 
-Exploratory Data Analysis (EDA)
+4)Exploratory Data Analysis (EDA)
 
-Train-Test Split
+5)Train-Test Split
 
-Model Training using SVM
+6)Model Training using SVM
 
-Model Evaluation
+7)Model Evaluation
 
-Predictive System Implementation
+8)Predictive System Implementation
 
 🤖 Model Details
 
